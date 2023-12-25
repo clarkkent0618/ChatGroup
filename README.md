@@ -12,4 +12,4 @@
 [![GitHub Issues](https://img.shields.io/github/issues/clarkkent0618/ChatGroup.svg)](https://github.com/clarkkent0618/ChatGroup/issues)
 [![GitHub License](https://img.shields.io/github/license/clarkkent0618/ChatGroup.svg)](https://github.com/clarkkent0618/ChatGroup/blob/master/LICENSE)
 
-A platform for organizing group chat with large language models.
+A platform for organizing **group chat** of large language models.
